@@ -1,0 +1,18 @@
+[submodule "dependencies/SDL"]
+	path = dependencies/SDL
+	url = https://github.com/libsdl-org/SDL
+[submodule "dependencies/glad"]
+	path = dependencies/glad
+	url = https://github.com/Dav1dde/glad
+[submodule "dependencies/assimp"]
+	path = dependencies/assimp
+	url = https://github.com/assimp/assimp
+[submodule "dependencies/glm"]
+	path = dependencies/glm
+	url = https://github.com/icaven/glm
+[submodule "dependencies/stb"]
+	path = dependencies/stb
+	url = https://github.com/nothings/stb
+[submodule "dependencies/imgui"]
+	path = dependencies/imgui
+	url = https://github.com/styinx/imgui
